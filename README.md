@@ -28,7 +28,7 @@ Algorithm Visualizer in Node JS &amp; Angular JS
 🖥 Open an issue in this Repository or DM me at kashifraza08012001@gmail.com
 <br /><br /><br /><br />
 #### Linear Search
-- C++ Code for Linear Search for understanding<br />
+- C++ Code of Linear Search for understanding<br />
 ```
 /*
   This function will return index, if element found or -1 if not found!

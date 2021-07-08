@@ -3,7 +3,7 @@ Algorithm Visualizer in Node JS &amp; Angular JS
 
 ## From Start: 
 ### 1. Searching Algorithm
-- Linear Search
+- <a href='#linearSearch'>Linear Search</a>
 - Binary Search
 - Jump Search
 ### 2. Sorting Algorithm
@@ -27,7 +27,7 @@ Algorithm Visualizer in Node JS &amp; Angular JS
 ## Want to collaborate with me for this project?
 🖥 Open an issue in this Repository or DM me at kashifraza08012001@gmail.com
 <br /><br /><br /><br />
-#### Linear Search
+<h4 id='linearSearch'> Linear Search</h4>
 - C++ Code of Linear Search for understanding<br />
 ```
 /*

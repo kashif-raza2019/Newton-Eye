@@ -26,3 +26,22 @@ Algorithm Visualizer in Node JS &amp; Angular JS
 
 ## Want to collaborate with me for this project?
 🖥 Open an issue in this Repository or DM me at kashifraza08012001@gmail.com
+<br /><br /><br /><br />
+#### Linear Search
+- C++ Code for Linear Search for understanding<br />
+```
+/*
+  This function will return index, if element found or -1 if not found!
+  Avg. Time Complexity: O(n), Best: O(1) (Element found at index '0')
+*/
+int linearSearchInt(int arr[MAX], int x){
+    int n = sizeof(arr);
+    //Base case
+    for(int i=0; i<n; i++){
+        if(arr[i] == x){
+            return i;
+        }
+    }
+    return -1;
+}
+```
